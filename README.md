@@ -1,0 +1,2 @@
+# qLOOK-A-Minimal-Information-System-for-Digital-Storage-and-Reproducible-Analysis-of-qPCR-experiments
+qLOOK (qPCR-LOg-boOK), is a modular, R-based system that extracts data from Thermo Fisher/ABI .EDS files and formats it into structured tables and log files. This provides a minimal, standardized, transparent solution for digital documentation that enhances reproducibility and supports long-term data stewardship, ELN integration and in publication.
